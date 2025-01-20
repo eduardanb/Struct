@@ -1,4 +1,4 @@
-Este repositório contém exemplos práticos de utilização de estruturas de dados em C++, demonstrando implementações de structs em situações diversas. Cada arquivo de código representa um contexto específico de aplicação.
+# Este repositório contém exemplos práticos de utilização de estruturas de dados em C++, demonstrando implementações de structs em situações diversas. Cada arquivo de código representa um contexto específico de aplicação.
 
 Conteúdo
 
